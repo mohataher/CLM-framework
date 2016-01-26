@@ -17,7 +17,7 @@ http://youtu.be/V7rV0uy7heQ
 http://youtu.be/vYOa8Pif5lY
 http://youtu.be/LDBu0BLKVDw
 
-## Instalation
+## Installation
 
 For Windows systems open and compile CLM_framework_vs2013.sln (requires VisualStudio 2012) or CLM_framework_vs2013.sln (requires VisualStudio 2013). All the required libraries are included with the code.
 
